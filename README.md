@@ -25,7 +25,6 @@ This is a React-based application for searching flights using the SkyScraper API
 1. Clone the repository:
    ```bash
    git clone https://github.com/yourusername/flight-search-app.git
-=======
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
