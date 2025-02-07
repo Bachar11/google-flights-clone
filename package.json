@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "ajv": "^6.12.6",
+    "ajv-keywords": "^3.5.2",
+    "react-scripts": "^5.0.1"
+  },
+  "devDependencies": {
+    "typescript": "^5.7.3"
+  }
+}
