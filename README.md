@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Flight Search Application
 
 This is a React-based application for searching flights using the SkyScraper API. Users can search for flights by specifying their departure and destination locations, along with dates for departure and return. The application fetches flight data and displays it in a user-friendly format.
